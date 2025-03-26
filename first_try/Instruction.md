@@ -6,4 +6,4 @@ The back ground is about the relationship between four factors and the times of 
 
 Figue_1.png is the result of first factor which true_w is 8.2
 
-Some nessecerry explaination has been written in the linear.py, began with '#'
+Some necessary explanations have been written in the linear.py, beginning with '#'.
